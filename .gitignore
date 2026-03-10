@@ -29,7 +29,7 @@ yarn-error.log*
 supabase/.branches
 supabase/.temp
 
-dist/
+#dist/
 /lib/
 .env
 *storybook.log
