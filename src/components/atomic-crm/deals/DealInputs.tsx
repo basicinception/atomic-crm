@@ -77,6 +77,7 @@ const DealMiscInputs = () => {
       />
       <NumberInput
         source="amount"
+        label="Monthly recurring revenue (MRR)"
         defaultValue={0}
         helperText={false}
         validate={required()}
